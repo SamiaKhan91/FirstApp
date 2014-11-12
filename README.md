@@ -1,4 +1,4 @@
-Hello-World
+FirstApp
 ===========
 
-My first repositry on github
+My first repository on github
